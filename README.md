@@ -6,10 +6,6 @@ Each image captures the cell nuclei 🧫 characteristics to help in identifying 
 📚 The data originates from:
 📝 K. P. Bennett and O. L. Mangasarian, “Robust Linear Programming Discrimination of Two Linearly Inseparable Sets,” Optimization Methods and Software, 1992.
 
-📂 Dataset also available at:
-
-📡 UW CS FTP Server: ftp.cs.wisc.edu → math-prog/cpo-dataset/machine-learn/WDBC/
-
 🌐 UCI ML Repository: 🔗 Breast Cancer Wisconsin (Diagnostic)
 
 🧾 Attribute Information
